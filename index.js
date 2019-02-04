@@ -5,5 +5,5 @@ let newarray = [];
       newarray = changeValue;
       break;
     }}
-    return array;
+    return newarray;
 }
