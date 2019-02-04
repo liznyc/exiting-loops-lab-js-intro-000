@@ -27,5 +27,5 @@ function findBy(array, findFn) {
       }
     }
 
-  
+
 }
